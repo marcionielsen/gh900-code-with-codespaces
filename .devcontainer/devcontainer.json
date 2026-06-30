@@ -15,5 +15,6 @@
         "ms-python.vscode-python-envs"
       ]
     }
-  }
+  },
+  "postCreateCommand": ".devcontainer/postCreate.sh"
 }
